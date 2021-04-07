@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentApp\\PaymentApp.csproj",
+      "projectUniqueName": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentAppAPI\\PaymentApp.csproj",
       "projectName": "PaymentApp",
-      "projectPath": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentApp\\PaymentApp.csproj",
+      "projectPath": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentAppAPI\\PaymentApp.csproj",
       "packagesPath": "C:\\Users\\nikol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentApp\\obj\\",
+      "outputPath": "C:\\Users\\nikol\\Desktop\\PaymentAPI\\PaymentAppAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikol\\AppData\\Roaming\\NuGet\\NuGet.Config",
